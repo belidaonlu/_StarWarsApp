@@ -1,7 +1,7 @@
 # Star Wars App
 
 ## Canli site linki
-
+https://jazzy-tapioca-d53beb.netlify.app/
 
 ## Proje Ozeti
 Bu uygulama, Star Wars evrenindeki çeşitli uzay gemilerini listeleyen ve seçilen bir geminin detaylarını gösteren bir web uygulamasıdır. Kullanıcılar, gemi adlarına veya modellerine göre arama yapabilir, filtreleyebilir ve seçtikleri bir geminin detaylarını ayrıntılı bir şekilde görebilirler.
